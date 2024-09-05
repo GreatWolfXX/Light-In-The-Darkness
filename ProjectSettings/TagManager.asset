@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Left Border
+  - Right Border
+  - Wood Spawn Zone
+  - Anvil Spawn Zone
+  - Inventory Slot
+  - Stump Spawn Zone
+  - Stall Spawn Zone
+  - Nails Spawn Zone
+  - Hammer Spawn Zone
+  - Axe Spawn Zone
+  - UI
+  - Dialog Text
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
